@@ -1,7 +1,5 @@
 import static org.junit.Assert.*;
 
-import com.mycompany.app.TennisGame;
-import com.mycompany.app.TennisGameException;
 import org.junit.Test;
 
 public class TennisGameTest {
